@@ -12,7 +12,7 @@ Ein Bauprojekt besteht aus mehreren Objekten, und jedes Objekt besteht aus einem
 
 Zu diesem Zweck erstellen der Projektleiter und die Planer eine Plan- und Dokumentenliste. In ihr wird eingetragen, wer welchen Plan bzw. welches Dokument bis wann zu liefern hat und welcher Freigabeprozess dafür verwendet wird.
 
-Negative Begutachtung
+### Negative Begutachtung
 
 Bereits eine einzelne negative Begutachtung löst eine Zweitbegutachtung durch eine speziell befugte Person aus. Diese Person kann die negative Begutachtung überstimmen:
 
@@ -22,11 +22,12 @@ Zweitbegutachtung negativ: Der Plan bzw. das Dokument geht zur Überarbeitung zu
 
 C.Plan soll diesen Prozess unterstützen. Freigegebene Pläne und Dokumente werden bei der Freigabe mittels einer Message bereitgestellt und so für die weitere interne Verwendung in ein Zweitsystem überführt.
 
-Bestandsplanung und Archivierung
+### Bestandsplanung und Archivierung
 
 Zum Projektende wird eine sogenannte Bestandsplanung durchgeführt. Als Basis dient die Ausführungsplanung. Bei der Überführung der Ausführungsplanung in die Bestandsplanung werden etwaige Änderungen, die sich während des Bauprozesses ergeben haben, eingearbeitet und erneut einem Begutachtungsprozess unterzogen.
 
 Anschließend archiviert der Projektleiter das Projekt als ZIP-Datei. Dabei werden entweder alle oder nur die freigegebenen Pläne zusammen mit dem Prüfprotokoll im HTML-Format komprimiert. Nach der Archivierung ist das Projekt nur noch für Administratoren sichtbar. Diese Sperre ist endgültig: Auch ein Administrator kann das Projekt für andere Benutzer nicht wieder sichtbar machen.
+
 
 ## Was soll besser werden gegenüber C.DES
 
